@@ -10,7 +10,7 @@ Original paradox is speaking about three doors and only one car, however to have
 ![3-1](https://user-images.githubusercontent.com/15817581/35255436-73fa56c6-0008-11e8-8f24-d9896f56df4f.gif)
 
 
-##### As wee see, when we add prize changing your initial choice doesn't matter.
+##### As wee see, when we double the prize, swapping your initial choice doesn't matter.
 ![3-2](https://user-images.githubusercontent.com/15817581/35255439-75b6d534-0008-11e8-99b4-39aeb4143da8.gif)
 
 
