@@ -27,3 +27,5 @@ The typical behavior of the majority, i.e., not switching, may be explained by p
 
 Sasha Volokh (2015) wrote that 
 > any explanation that says something like 'the probability of door 1 was 1/3, and nothing can change that…' is automatically fishy: probabilities are expressions of our ignorance about the world, and new information can change the extent of our ignorance.
+
+There is another viewpoint, which seems to be more prominent. Look at the inital pick as a probabilty of choosing right door. It's intuitive that you will fail 2/3 of times as right door on first pick. Put it differently, you have 2/3 chances to pick right door when change your initial door.
